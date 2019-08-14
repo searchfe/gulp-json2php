@@ -2,7 +2,7 @@
   "name": "gulp-json2php",
   "version": "1.0.2",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "scripts": {
     "installs": "npm install --registry=http://registry.npm.baidu-int.com",
     "test": "jest",

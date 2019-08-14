@@ -1,0 +1,6 @@
+<?php 
+ function polyfillMap () { 
+return $map= array('whatwg-fetch' => 'js2php/polyfills/whatwg-fetch/fetch-0c21273fa3.php', 'promise-polyfill/lib' => 'js2php/polyfills/promise-polyfill/lib/polyfill-df2641d375.php');
+}
+return polyfillMap;
+?>
